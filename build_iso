@@ -1,0 +1,1 @@
+mkarchiso -v -r -w /tmp/aluminium -o build/ src/
